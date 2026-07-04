@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path",
-      "destination": "http://92.118.206.4:30198/api/auth/callback"
+      "destination": "https://zyntra.dpdns.org/api/auth/callback"
     },
     {
       "source": "/transcripts/:path*",
-      "destination": "http://92.118.206.4:30198/transcripts/:path"
+      "destination": "https://zyntra.dpdns.org/transcripts/:path"
     },
     {
       "source": "/(.*)",
