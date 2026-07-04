@@ -6,7 +6,7 @@
     },
     {
       "source": "/transcripts/:path*",
-      "destination": "http://92.118.206.4:30198/transcripts/:path*"
+      "destination": "https://9849372.vercel.app/transcripts/:path*"
     },
     {
       "source": "/(.*)",
